@@ -89,11 +89,3 @@ Step-by-step exploration of concepts
 Emphasis on writing clean and maintainable code
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📈 Future Improvements :
-Add interfaces, generics, and advanced types
-Include real-world mini projects
-Add comments and documentation for each file
-Introduce TypeScript configuration (tsconfig.json)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
