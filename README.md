@@ -81,11 +81,3 @@ Demonstrates both functional and OOP approaches
 Beginner-friendly yet developer-oriented structure
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-💡 Learning Approach :
-
-Hands-on coding with small, focused programs
-Step-by-step exploration of concepts
-Emphasis on writing clean and maintainable code
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
